@@ -25,7 +25,6 @@ body {
   animation: animate 10s linear infinite;
 
   box-shadow: 0 0 0 6px #fff;
-  /*0 20px 35px rgba(0,0,0,1)*/
 }
 
 .cup::before {
