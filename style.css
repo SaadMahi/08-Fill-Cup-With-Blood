@@ -19,7 +19,7 @@ body {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 
-  background: url(https://SaadMahi.github.io/08-Fill-Cup-With-Blood/images/wave2.png);
+  background: url(./images/wave2.png);
 
   background-repeat: repeat-x;
   animation: animate 10s linear infinite;
